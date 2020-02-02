@@ -11,7 +11,7 @@ author:  # chang
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index pe following line to your infomation.
-  name: zeki  # Be used at blog posts' author.
+  name: TEST  # Be used at blog posts' author.
   first_name: Zekarias  # Be used at index page about me section.
   last_name: Bogale  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
