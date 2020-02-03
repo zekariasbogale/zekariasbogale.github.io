@@ -12,7 +12,7 @@ img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/
 
 # author -- index pe following line to your infomation.
   name: zeki  # Be used at blog posts' author.
-  first_name: TEST  # Be used at index page about me section.
+  first_name: Z  # Be used at index page about me section.
   last_name: Bogale  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: zekariasbogale  # Leave blank if you don't have now
